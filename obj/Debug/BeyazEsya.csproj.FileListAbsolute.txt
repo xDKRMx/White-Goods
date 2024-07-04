@@ -1,0 +1,2 @@
+C:\Users\İhsan Acer\Source\Repos\BeyazEsya\BeyazEsya\obj\Debug\BeyazEsya.csproj.AssemblyReference.cache
+C:\Users\İhsan Acer\Source\Repos\BeyazEsya\BeyazEsya\obj\Debug\BeyazEsya.csproj.CoreCompileInputs.cache
